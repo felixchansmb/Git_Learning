@@ -2,6 +2,7 @@
 
 git init			//Initialize Local Git Repository
 git add <file>			//Add File(s) To Index
+git add .			//Add All Files To Index
 git status 			//Check Status Of Working Tree
 git commit			//Commit Changes In Index
 
