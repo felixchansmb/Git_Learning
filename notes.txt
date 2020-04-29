@@ -4,4 +4,10 @@
 2.   type in those files that you dont track in file .gitignore
      <filename> for file
      Directory path for wohle files in Directory	//	/subdir2		
-3.	git add .												
+3.   git add .												
+
+
+
+#Branch
+If you are assigned to build a module log-in.But you dont wanna commit it into the main branch when you havent finished the module.
+Then you can creat a new branch and commit it under this new branch

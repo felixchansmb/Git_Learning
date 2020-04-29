@@ -14,6 +14,13 @@ git clone			//Clone Repository Into A New Diretory
 
 
 git status			//Check the status
-git rm --cached <file>				//romove the staged file to unstage
+git rm --cached <file>		//romove the staged file to unstage
+
+
+git branch <branchname>		//creat a new branch
+git checkout <branchname>	//switched to branch <branchname>
+git chckout master		//switched to branch master,wich means main branch
+
+git merge <branchname>
 
 
