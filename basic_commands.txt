@@ -5,6 +5,7 @@ git add <file>			//Add File(s) To Index
 git add .			//Add All Files To Index
 git status 			//Check Status Of Working Tree
 git commit			//Commit Changes In Index
+git commit -m "message"		//Commit Changes withou open a commit tex to leave a message
 
 git push			//Push To Remote Repository
 git pull			//Pull Laest From Remote Repository
@@ -14,3 +15,5 @@ git clone			//Clone Repository Into A New Diretory
 
 git status			//Check the status
 git rm --cached <file>				//romove the staged file to unstage
+
+

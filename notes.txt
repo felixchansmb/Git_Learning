@@ -1,1 +1,7 @@
-hey!
+#The apprach to ignore some files that we dont track at all.
+
+1.   creat a file name <.gitignore>    	       	     	//touch .gitignore
+2.   type in those files that you dont track in file .gitignore
+     <filename> for file
+     Directory path for wohle files in Directory	//	/subdir2		
+3.	git add .												
